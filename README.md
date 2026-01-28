@@ -39,9 +39,9 @@ monitoring layer and business intelligence integration.
 
 ### Risk Classification Distribution
 
-- Low Risk: ~88%
-- Medium Risk: ~11%
-- High Risk: ~0.3%
+- Low Risk: ~76.7%
+- Medium Risk: ~22.8%
+- High Risk: ~0.5%
 
 Dashboard provides live monitoring of fraud exposure and transaction trends.
 
